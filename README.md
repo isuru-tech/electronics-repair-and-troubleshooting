@@ -34,6 +34,10 @@ Electric Instant Water Heater
 
 ## Case 2 – Control Circuit Failure (PCB Damage + IC Fault)
 
+![Case 2 Overview](case2.jpeg)
+![Burnt PCB](case2_pcb.jpeg)
+![PCB Repair](case2_pcb_reparing.jpeg)
+
 **Device:**  
 Electric Instant Water Heater (KA2803B based control)
 
@@ -76,6 +80,8 @@ Electric Instant Water Heater (KA2803B based control)
 ---
 
 ## Case 3 – Surge Damage + Snubber Failure
+
+![Exploded MOV](case3_mov.jpeg)
 
 **Device:**  
 Electric Instant Water Heater (with pump)
