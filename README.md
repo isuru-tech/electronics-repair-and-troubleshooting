@@ -2,7 +2,7 @@
 Practical troubleshooting and repair of electronic systems
 
 # 🔧 Electric Water Heater Repair Case Study
-
+![Disassembled Heaters](Disassembel_heaters.jpeg)
 ---
 
 ## Case 1 – Faulty Power Switch
