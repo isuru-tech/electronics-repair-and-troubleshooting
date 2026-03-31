@@ -1,7 +1,34 @@
-# electronics-repair-and-troubleshooting
-Practical troubleshooting and repair of electronic systems
+# 🔧 Electronics Repair & Troubleshooting
 
-# 🔧 Electric Water Heater Repair Case Study
+**Practical, real-world debugging and repair of electronic systems.**  
+Focused on power electronics, PCB fault diagnosis, and hands-on troubleshooting.
+
+---
+
+# 🔥 Electric Water Heater Repair Case Study
+
+<img src="images/Disassembel_heaters.jpeg" width="600"/>
+
+This case study documents the complete diagnosis and repair of three faulty electric water heaters, covering:
+
+- Power switch failure analysis  
+- PCB damage due to poor high-voltage isolation  
+- Control circuit repair (KA2803B + LM358 systems)  
+- Surge protection failure (MOV explosion)  
+- Snubber and capacitor degradation  
+- Safe debugging using controlled voltage injection  
+
+---
+
+## 🧠 Key Focus Areas
+
+- Fault diagnosis using multimeter  
+- Root cause analysis (not just part replacement)  
+- Power supply troubleshooting  
+- PCB repair techniques (jumper wiring, carbon removal)  
+- Reliability improvements through component upgrades  
+
+---
 ![Disassembled Heaters](Disassembel_heaters.jpeg)
 ---
 
@@ -103,7 +130,7 @@ Electric Instant Water Heater (with pump)
 **Solution:**  
 - Replaced:
   - MOV  
-  - Snubber capacitors (103J → upgraded to 400V)  
+  - Snubber capacitors (104J → upgraded to 400V)  
   - Electrolytic capacitors  
 
 **Result:**  
